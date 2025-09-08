@@ -1,0 +1,4 @@
+[file "**" from "https://github.com/google/quiche.git"]
+commit = 66dcb9871f7d7998e41000c0d3873044ae89ee7c
+branch = main
+target = third_party/quiche
